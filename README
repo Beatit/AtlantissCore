@@ -2,7 +2,6 @@
 
 Bugtracker: https://github.com/Atlantiss/AtlantissCore/issues
 Forum: http://forum.atlantiss.pl/
-Wiki:
 Game: http://atlantiss.pl/
 
 - Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
@@ -10,6 +9,8 @@ Game: http://atlantiss.pl/
 - Podawaj linki do rzeczy, których dany problem dotyczy (http://wowhead.com).
 - Pisz zgłoszenia zgodnie z formatem:
 [Quest][Kraina] Nazwa questa
-[NPC]Nazwa NPC
+[NPC] Nazwa NPC
 [Spell][Klasa] Nazwa spela
 [Talent][Klasa] Nazwa talentu
+[NPC][DROP] Nazwa NPC
+[****][Kosmetyka] Nazwa
