@@ -1,14 +1,32 @@
 Atlantiss Core 3
 ================================
-Obsługiwany patch / Supported patch: 4.0.6a
 
-Bugtracker: https://github.com/Atlantiss/AtlantissCore/issues<br>
-Forum: http://forum.atlantiss.pl/<br>
-Game: http://atlantiss.eu/<br>
-Realmlist: play.atlantiss.eu<br>
-TeamSpeak: voice.atlantiss.eu<br>
-How To Play: http://atlantiss.eu/pages/1<br>
-Changelog: http://forum.atlantiss.pl/viewforum.php?f=6
+<table>
+  <tr>
+    <th colspan="2">Obsługiwany patch / Supported patch: 4.0.6a</th>
+  </tr>
+  <tr>
+    <td>Bugtracker:</td><td>https://github.com/Atlantiss/AtlantissCore/issues</td>
+  </tr>
+  <tr>
+    <td>Forum</td><td>http://forum.atlantiss.pl/</td>
+  </tr>
+  <tr>
+    <td>Website</td><td>http://atlantiss.eu/</td>
+  </tr>
+  <tr>
+    <td>Realmlist</td><td>play.atlantiss.eu</td>
+  </tr>
+  <tr>
+    <td>TeamSpeak</td><td>voice.atlantiss.eu</td>
+  </tr>
+  <tr>
+    <td>How To Play</td><td>http://atlantiss.eu/pages/1</td>
+  </tr>
+  <tr>
+    <td>Changelog</td><td>http://forum.atlantiss.pl/viewforum.php?f=6</td>
+  </tr>
+</table>
 
 Jak używać bugtrackera
 -------------------------
@@ -23,3 +41,6 @@ Jak używać bugtrackera
  * [Npc] [Drop] Nazwa NPC<br>
  * [????] [Kosmetyka] Nazwa
 
+
+Table for two
+-------------
