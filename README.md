@@ -1,11 +1,12 @@
 -- Atlantiss Core 3 --
-Obsługiwany patch: 4.0.6a
+Obsługiwany patch / Supported patch: 4.0.6a
 
 Bugtracker: https://github.com/Atlantiss/AtlantissCore/issues
 Forum: http://forum.atlantiss.pl/
-Game: http://atlantiss.pl/
-Realmlist: play.atlantiss.pl
-TeamSpeak: voice.atlantiss.pl
+Game: http://atlantiss.eu/
+Realmlist: play.atlantiss.eu
+TeamSpeak: voice.atlantiss.eu
+How To Play: http://atlantiss.eu/pages/1
 Changelog: http://forum.atlantiss.pl/viewforum.php?f=6
 
 - Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
@@ -18,3 +19,4 @@ Changelog: http://forum.atlantiss.pl/viewforum.php?f=6
 [Talent][Klasa] Nazwa talentu
 [NPC][DROP] Nazwa NPC
 [****][Kosmetyka] Nazwa
+
