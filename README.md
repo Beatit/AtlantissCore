@@ -13,10 +13,16 @@ Changelog: http://forum.atlantiss.pl/viewforum.php?f=6
 - Upewnij się czy zgłaszany problem jest bugiem.
 - Podawaj linki do rzeczy, których dany problem dotyczy (http://wowhead.com lub http://cata.openwow.com).
 - Pisz zgłoszenia zgodnie z formatem:
+
 [Quest][Kraina] Nazwa questa
+
 [NPC] Nazwa NPC
+
 [Spell][Klasa] Nazwa spela
+
 [Talent][Klasa] Nazwa talentu
+
 [NPC][DROP] Nazwa NPC
+
 [****][Kosmetyka] Nazwa
 
