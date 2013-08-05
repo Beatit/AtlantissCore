@@ -40,7 +40,3 @@ Jak używać bugtrackera
  * [Talent][Klasa] Nazwa talentu<br>
  * [Npc] [Drop] Nazwa NPC<br>
  * [????] [Kosmetyka] Nazwa
-
-
-Table for two
--------------
