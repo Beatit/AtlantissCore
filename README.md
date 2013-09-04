@@ -30,13 +30,14 @@ Atlantiss Core 3
 
 Jak używać bugtrackera? | How to use Bugtracker?
 -------------------------
-- Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
-- Upewnij się czy zgłaszany problem jest bugiem.
-- Podawaj linki do rzeczy, których dany problem dotyczy (http://wowhead.com lub http://cata.openwow.com).
-- Pisz zgłoszenia zgodnie z formatem:<br>
- * [Quest] [Kraina] Nazwa questa<br>
- * [NPC] Nazwa NPC<br>
- * [Spell] [Klasa] Nazwa spela<br>
- * [Talent][Klasa] Nazwa talentu<br>
- * [Npc] [Drop] Nazwa NPC<br>
- * [????] [Kosmetyka] Nazwa
+ - Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
+ - Upewnij się czy zgłaszany problem jest bugiem.
+ - Podawaj linki do rzeczy, których dany problem dotyczy (http://wowhead.com lub http://cata.openwow.com).
+ - Pisz zgłoszenia zgodnie z formatem:<br>
+  * `[Quest]``[Zone]` A Vision of the Past<br>
+  * `[NPC]` Thoralius the Wise<br>
+  * `[Spell]``[Class]` Frostfire Bolt<br>
+  * `[Talent]``[Class]` Brain Freeze<br>
+  * `[Glyph]``[Class]` Glyph of Frostfire Bolt<br>
+  * `[Npc]``[Drop]` Thoralius the Wise<br>
+  * `[????]``[Cosmetic]` Name
