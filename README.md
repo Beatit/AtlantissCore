@@ -3,7 +3,7 @@ Atlantiss Core 3
 
 <table>
   <tr>
-    <th colspan="2">Obsługiwany patch / Supported patch: 4.0.6a</th>
+    <th colspan="2">Obsługiwany patch | Supported patch: 4.0.6a</th>
   </tr>
   <tr>
     <td>Bugtracker:</td><td>https://github.com/Atlantiss/AtlantissCore/issues</td>
@@ -28,7 +28,7 @@ Atlantiss Core 3
   </tr>
 </table>
 
-Jak używać bugtrackera
+Jak używać bugtrackera? | How to use Bugtracker?
 -------------------------
 - Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
 - Upewnij się czy zgłaszany problem jest bugiem.
