@@ -41,3 +41,4 @@ Jak używać bugtrackera? | How to use Bugtracker?
   * `[Glyph]``[Class]` Glyph of Frostfire Bolt<br>
   * `[Npc]``[Drop]` Thoralius the Wise<br>
   * `[????]``[Cosmetic]` Name
+  * `[Web]` Nie działa armory
