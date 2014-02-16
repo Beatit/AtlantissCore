@@ -1,7 +1,7 @@
 Atlantiss Core 3
 ================================
 
-Jak używać bugtrackera? | How to use Bugtracker?
+Jak używać? | How to use?
 -------------------------
  - Używaj wyszukiwarki, by sprawdzić czy podobny błąd nie został już zgłoszony. Jeśli tak, to sprawdź czy jest poprawiony i czy nie oczekuje na wgranie.
  - Upewnij się czy zgłaszany problem jest bugiem.
