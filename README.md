@@ -16,6 +16,9 @@ Jak używać bugtrackera? | How to use Bugtracker?
   * `[????]``[Cosmetic]` Name
   * `[Web]` Nie działa armory
 
+
+Informacje dodatkowe | Additional Information
+-------------------------
 <table>
   <tr>
     <th colspan="2">Obsługiwany patch | Supported patch: 4.0.6a</th>
